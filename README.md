@@ -1,7 +1,7 @@
 [README_ soc training.md](https://github.com/user-attachments/files/27274635/README_.soc.training.md)
 #  SOC Analyst Training Curriculum - Practical Guide for Security Operations Professionals
 
-> A structured, hands-on SOC training curriculum built from the ground up — continuously updated with practical labs, real-world scenarios, and mapped learning paths to help SOC professionals and the wider cybersecurity community develop job-ready analyst skills.
+> A structured, hands-on SOC training curriculum built from the ground up - continuously updated with practical labs, real-world scenarios, and mapped learning paths to help SOC professionals and the wider cybersecurity community develop job-ready analyst skills.
 
 [![Domain](https://img.shields.io/badge/Domain-SOC%20%7C%20Threat%20Detection%20%7C%20DFIR-red?style=flat)]()
 [![Frameworks](https://img.shields.io/badge/Mapped-MITRE%20ATT%26CK%20%7C%20Essential%20Eight-orange?style=flat)]()
@@ -13,7 +13,7 @@
 
 ##  About This Curriculum
 
-This repository is a **practical, framework-aligned SOC training curriculum** designed for beginner and intermediate security analysts who want structured, hands-on learning — not just theory.
+This repository is a **practical, framework-aligned SOC training curriculum** designed for beginner and intermediate security analysts who want structured, hands-on learning - not just theory.
 
 It was built from scratch based on direct experience designing and delivering SOC training, and is continuously updated to reflect current threats, tools, and industry expectations. Every module includes clear learning outcomes, a hands-on lab component, and mapping to professional certification standards so learners can build credentialled, transferable skills.
 
